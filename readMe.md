@@ -11,4 +11,4 @@ accurate descriptions of the users and their usage. Getting full descriptions of
 
 # Design
 
-The design may contain potential bugs or unfavourable usuage to practice and server the core idea. 
+The design may contain potential bugs or unfavorable usage to practice and serve the core idea. 
